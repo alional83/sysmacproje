@@ -4,4 +4,8 @@ _EN=Variables
 ++D=BOOL	N=aa	G=VAR
 ++D=BOOL	N=bb	G=VAR
 ++D=BOOL	N=cc	G=VAR
+++D=BOOL	N=uu	G=VAR
+++D=BOOL	N=tt	G=VAR
+++D=BOOL	N=ll	G=VAR
+++D=BOOL	N=zz	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
